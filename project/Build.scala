@@ -11,7 +11,7 @@ object ApplicationBuild extends Build {
     // Add your project dependencies here,
     jdbc,
     anorm,
-    "org.apache.camel" % "camel-core" % "2.9.2",
+    "org.apache.camel" % "camel-core" % "2.11.0",
     "org.apache.camel" % "camel-scala" % "2.11.0",
 	"junit" % "junit" % "4.11",
 	"org.easymock" % "easymock" % "3.1",
